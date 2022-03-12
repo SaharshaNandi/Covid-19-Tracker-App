@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Covid-19-Tracker-App
 A fully updated Covid-19 Tracker App with live tracking, built using React and hosted on firebase.
 This Project is a beginner friendly project I built using React. Some key Aspects:

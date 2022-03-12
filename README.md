@@ -14,7 +14,6 @@ Check it out now!
 ![Covid_tracker_sample](https://user-images.githubusercontent.com/60267353/158013345-3d607100-35c4-4475-b428-5c2c25dcd239.png)
 =======
 
-![](Covid_tracker_sample.PNG)
 
 # Getting Started with Create React App
 
